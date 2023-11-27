@@ -1,0 +1,2 @@
+/Game/MainMap.MainMap:PersistentLevel.REINST_DS_BuildingTest_C_6
+/Engine/Transient.REINST_DS_BuildingTest_C_137
